@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Enterprise Blue",
+    "tags": ["enterprise", "modern"],
+    "colors": ["#0078D4", "#50E6FF", "#00B7C3", "#004B50", "#00AD56", "#004521"],
+    "background": "#FFFFFF",
+    "foreground": "#323130"
+  },
+  {
+    "name": "Global Finance",
+    "tags": ["finance", "executive"],
+    "colors": ["#1B365D", "#009639", "#A5A5A5", "#EBEBEB", "#F2F2F2", "#333333"],
+    "background": "#F8F8F8",
+    "foreground": "#121212"
+  },
+  {
+    "name": "Neon Insight",
+    "tags": ["modern", "neon"],
+    "colors": ["#7928CA", "#FF0080", "#0070F3", "#F5A623", "#4CE1AC", "#FF4D4D"],
+    "background": "#000000",
+    "foreground": "#FFFFFF"
+  },
+  {
+    "name": "Soft Pastel",
+    "tags": ["pastel"],
+    "colors": ["#FFB7B2", "#FFDAC1", "#E2F0CB", "#B5EAD7", "#C7CEEA", "#FF9AA2"],
+    "background": "#FEFEFE",
+    "foreground": "#5C5C5C"
+  }
+]
