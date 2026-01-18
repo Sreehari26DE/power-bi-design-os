@@ -1,5 +1,7 @@
 # Power BI Design OS 🎨📊
 
+[![Deploy static content to Pages](https://github.com/Sreehari26DE/power-bi-design-os/actions/workflows/deploy.yml/badge.svg)](https://github.com/Sreehari26DE/power-bi-design-os/actions/workflows/deploy.yml)
+
 A professional, personal web application built to streamline the Power BI development workflow. Generate themes, brainstorm dashboard blueprints, and draft wireframes in seconds.
 
 ## 🚀 Features
