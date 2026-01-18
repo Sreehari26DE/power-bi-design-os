@@ -37,17 +37,13 @@ jobs:
           node-version: "20"
           cache: "npm"
       - name: Install dependencies
-        run: |
-          cd power-bi-design-os
-          npm install
+        run: npm install
       - name: Build with Next.js
-        run: |
-          cd power-bi-design-os
-          npm run build
+        run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./power-bi-design-os/out
+          path: ./out
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
